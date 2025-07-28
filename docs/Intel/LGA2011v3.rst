@@ -2,5 +2,33 @@
 LGA2011v3
 ================
 
+Introduction
+================
+
 The LGA2011v3 socket succeeded :doc:`LGA2011` and was succeeded by the :doc:`LGA2066` socket. 
 It uses :doc:`/Memory/DDR4` memory standard.
+
+Key Facts & Figures
+====================
+
+.. list-table::
+   :widths: 50 75
+   :header-rows: 0
+
+   * - Microarchitecture:
+     - :doc:`/Intel/Microarchs/Haswell`
+   * - Codenames:
+     - Haswell-E, Broadwell-E
+   * - Process nodes:
+     - Intel 22nm or 14nm
+   * - Core counts:
+     - 6, 8 or 10 (inc. SMT)
+   * - Native FSB:
+     - 100 MHz
+   * - Release Year:
+     - 2014
+
+Benching it
+================
+
+TBA

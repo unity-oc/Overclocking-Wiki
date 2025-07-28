@@ -2,4 +2,30 @@
 LGA1151v2
 ================
 
-Successor of the :doc:`LGA1151v1` socket, uses the :doc:`DDR3` and :doc:`DDR4` memory standards.
+Successor of and closely related to the :doc:`LGA1151v1` socket. Predecessor of the :doc:`LGA1200` socket.
+Uses the :doc:`Memory\DDR3` and :doc:`Memory\DDR4` memory standards.
+
+Key Facts & Figures
+====================
+
+.. list-table::
+   :widths: 50 75
+   :header-rows: 0
+
+   * - Microarchitecture:
+     - :doc:`/Intel/Microarchs/Skylake`
+   * - Codenames:
+     - Coffee Lake, Coffee Lake Refresh
+   * - Process nodes:
+     - Intel 14nm
+   * - Core counts:
+     - 4, 6 or 8 (SMT available in select SKUs)
+   * - Native FSB:
+     - 100 MHz
+   * - Release Year:
+     - 2017
+
+Benching it
+================
+
+TBA

@@ -2,8 +2,9 @@
 K8
 ================
 
-The K8 microarchitecture preceded :docs:`K10`.
+The K8 microarchitecture succeeded :docs:`K7` and preceded :docs:`K10`.
 Sockets using this microarchitecture:
 
-:doc:`939`
-:doc:`AM2`
+:doc:`/AMD/939`
+:doc:`/AMD/754`
+:doc:`/AMD/AM2`

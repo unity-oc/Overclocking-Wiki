@@ -1,11 +1,11 @@
 ================
-K10
+K7
 ================
 
 Introduction
 ================
 
-The K10 microarchitecture preceded :docs:`Bulldozer`.
+The K7 microarchitecture preceded :docs:`K8`.
 Sockets using this microarchitecture:
 
-:doc:`/AMD/AM3`
+:doc:`/AMD/A`

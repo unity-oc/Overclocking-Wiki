@@ -2,4 +2,4 @@
 LGA1155
 ================
 
-Successor of the :doc:`LGA1156` socket, uses the :doc:`DDR3` memory standard.
+Successor of the :doc:`LGA1156` socket, uses the :doc:`Memory\DDR3` memory standard.

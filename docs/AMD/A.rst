@@ -2,4 +2,25 @@
 A
 ================
 
-Socket A is the predecessor of the :doc:`939` socket and uses the :doc:`/Memory/SDR` memory standard.
+Socket A is the predecessor of the :doc:`939` socket and uses the :doc:`/Memory/DDR` memory standard.
+
+Key Facts & Figures
+====================
+
+.. list-table::
+   :widths: 50 75
+   :header-rows: 0
+
+   * - Microarchitecture:
+     - :doc:`/AMD/Microarchs/K7`
+   * - Process node:
+     - AMD 180nm
+   * - Core counts:
+     - Singlecores only
+   * - Native FSB:
+     - 200 MHz
+
+Benching it
+================
+
+TBA

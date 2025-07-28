@@ -2,4 +2,7 @@
 940
 ================
 
-This socket uses the :doc:`/Memory/DDR` memory standard.
+Introduction
+================
+
+This socket uses the :doc:`/Memory/DDR` memory standard and is closely related to :docs:`939`.

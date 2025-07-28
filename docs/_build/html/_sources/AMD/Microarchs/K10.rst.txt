@@ -3,3 +3,6 @@ K10
 ================
 
 The K10 microarchitecture preceded :docs:`Bulldozer`.
+Sockets using this microarchitecture:
+
+:doc:`/AMD/AM3`

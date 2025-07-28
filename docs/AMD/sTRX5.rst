@@ -1,11 +1,11 @@
 ================
-FM2
+sTR5
 ================
 
 Introduction
 ================
 
-Closely related to the :doc:`FM2+` socket, uses the :doc:`/Memory/DDR3` memory standard.
+sTR5 succeeded :doc:`sTRX4` and uses the :docs:`/Memory/DDR5` memory standard.
 
 Key Facts & Figures
 ================

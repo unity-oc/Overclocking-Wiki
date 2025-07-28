@@ -7,13 +7,12 @@ Overclocking-Wiki documentation
 ===============================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: AMD Mainstream:
 
    AMD/A
    AMD/939
    AMD/754
-   AMD/AM1
    AMD/AM2
    AMD/AM2+
    AMD/AM3
@@ -22,35 +21,39 @@ Overclocking-Wiki documentation
    AMD/AM5
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: AMD APU:
 
+   AMD/AM1
    AMD/FM1
    AMD/FM2
    AMD/FM2+
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: AMD HEDT:
 
    AMD/940
    AMD/TR4
    AMD/sTRX4
+   AMD/sTRX5
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: AMD Microarchitecures:
 
+   AMD/Microarchs/K7
    AMD/Microarchs/K8
    AMD/Microarchs/K10
    AMD/Microarchs/Bulldozer
    AMD/Microarchs/Ryzen  
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Intel Mainstream:
 
    Intel/370
+   Intel/423
    Intel/478
    Intel/LGA775
    Intel/LGA1156
@@ -62,7 +65,7 @@ Overclocking-Wiki documentation
    Intel/LGA1700
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Intel HEDT:
 
    Intel/LGA1366
@@ -72,7 +75,7 @@ Overclocking-Wiki documentation
    Intel/LGA4677
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Intel Microarchitecures:
 
    Intel/Microarchs/NetBurst
@@ -86,7 +89,7 @@ Overclocking-Wiki documentation
    Intel/Microarchs/Arrow Lake  
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Memory Standards:
 
    Memory/SDR

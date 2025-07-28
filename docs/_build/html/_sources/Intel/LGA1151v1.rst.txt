@@ -2,4 +2,33 @@
 LGA1151v1
 ================
 
-Successor of the :doc:`LGA1150` socket, uses the :doc:`DDR3` and :doc:`DDR4` memory standards.
+Introduction
+================
+
+Successor of the :doc:`LGA1150` socket, closely related to and predecessor of :doc:`LGA1151v2`.
+Uses the :doc:`/Memory/DDR3` and :doc:`/Memory/DDR4` memory standards.
+
+Key Facts & Figures
+====================
+
+.. list-table::
+   :widths: 50 75
+   :header-rows: 0
+
+   * - Microarchitecture:
+     - :doc:`/Intel/Microarchs/Haswell`
+   * - Codenames:
+     - Haswell, Devil's Canyon, Broadwell   
+   * - Process nodes:
+     - Intel 22nm or 14nm
+   * - Core counts:
+     - 2 or 4 (SMT available in select SKUs)
+   * - Native FSB:
+     - 100 MHz
+   * - Release Year:
+     - 2013 
+
+Benching it
+================
+
+TBA

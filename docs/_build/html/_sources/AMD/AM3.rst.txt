@@ -2,4 +2,17 @@
 AM3
 ================
 
-Lanparties rule!
+Introduction
+================
+
+AM3 succeeded :doc:`AM2+` and is closely related to it. 
+It uses the :doc:`/Memory/DDR3` memory standard and was succeeded by :doc:`AM3+`,
+with which it is also related.
+
+Key Facts & Figures
+====================
+
+Benching it
+================
+
+TBA

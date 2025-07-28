@@ -2,5 +2,33 @@
 LGA1700
 ================
 
-Successor of the :doc:`LGA1700` socket, uses the :doc:`Memory/DDR4` and :doc:`Memory/DDR5` memory standards.
+Introduction
+================
+
+Successor of the :doc:`LGA1700` socket, uses the :doc:`/Memory/DDR4` and :doc:`/Memory/DDR5` memory standards.
 Processors on this socket are built using the :doc:`/Intel/Microarchs/Alder Lake` or :doc:`/Intel/Microarchs/Raptor Lake` microarchitectures.
+
+Key Facts & Figures
+====================
+
+.. list-table::
+   :widths: 50 75
+   :header-rows: 0
+
+   * - Microarchitecture:
+     - :doc:`/Intel/Microarchs/Alder Lake`, :doc:`/Intel/Microarchs/Raptor Lake`
+   * - Codenames:
+     - Alder Lake, Rocket Lake, Rocket Lake Refresh
+   * - Process nodes:
+     - Intel 10nm
+   * - Core counts:
+     - 4, 6, 8, 10 (SMT available in select SKUs)
+   * - Native FSB:
+     - 100 MHz
+   * - Release Year:
+     - 2021
+
+Benching it
+================
+
+TBA

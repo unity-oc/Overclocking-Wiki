@@ -2,6 +2,9 @@
 Ryzen
 ================
 
+Introduction
+================
+
 The Ryzen microarchitecture succeeded :docs:`Bullzoder`.
 Sockets using this microarchitecture:
 

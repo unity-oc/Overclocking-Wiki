@@ -2,4 +2,29 @@
 AM5
 ================
 
-Lanparties rule!
+Introduction
+================
+
+Successor of :doc:`AM4`, uses the :doc:`/Memory/DDR5` memory standard. 
+Closely related to :doc:`sTRX5`.
+
+Key Facts & Figures
+====================
+
+.. list-table::
+   :widths: 50 75
+   :header-rows: 0
+
+   * - Microarchitecture:
+     - :doc:`/AMD/Microarchs/Ryzen`
+   * - Process nodes:
+     - TSMC 5nm or 3nm
+   * - Core counts:
+     - 6, 8, 12 or 16 (inc. SMT)
+   * - Native FSB:
+     - 100 MHz
+
+Benching it
+================
+
+TBA

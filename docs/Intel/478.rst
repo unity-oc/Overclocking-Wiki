@@ -2,4 +2,31 @@
 478
 ================
 
-Successor of the :doc:`370` socket, uses the :doc:`/Memory/SDR` and :doc:`/Memory/DDR` memory standards. Predecessor of the :doc:`478` socket.
+Introduction
+================
+
+Successor of the :doc:`423` socket, uses the :doc:`/Memory/SDR` and :doc:`/Memory/DDR` memory standards. 
+Predecessor of the :doc:`LGA775` socket.
+
+Key Facts & Figures
+====================
+
+.. list-table::
+   :widths: 50 75
+   :header-rows: 0
+
+   * - Microarchitecture:
+     - ?
+   * - Process nodes:
+     - ?
+   * - Core counts:
+     - Singlecores only
+   * - Native FSB:
+     - 100 MHz
+   * - Release Year:
+     - 2001  
+
+Benching it
+================
+
+TBA
