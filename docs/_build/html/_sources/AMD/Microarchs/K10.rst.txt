@@ -2,6 +2,9 @@
 K10
 ================
 
+Introduction
+================
+
 The K10 microarchitecture preceded :docs:`Bulldozer`.
 Sockets using this microarchitecture:
 

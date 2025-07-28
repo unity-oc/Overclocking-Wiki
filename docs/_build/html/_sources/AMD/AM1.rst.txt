@@ -11,6 +11,7 @@ Key Facts & Figures
 
 Process node: GlobalFoundries 28nm
 Core counts: 2 or 4 (no SMT)
+Native FSB: 100 MHz
 
 Benching it
 ================

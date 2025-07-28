@@ -5,7 +5,7 @@ AM5
 Introduction
 ================
 
-Successor of :doc:`AM4`, uses the :doc:`/Memory/DDR5`memory standard. 
+Successor of :doc:`AM4`, uses the :doc:`/Memory/DDR5` memory standard. 
 Closely related to :doc:`sTRX5`.
 
 Key Facts & Figures

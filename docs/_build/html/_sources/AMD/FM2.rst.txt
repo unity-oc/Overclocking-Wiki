@@ -5,7 +5,7 @@ FM2
 Introduction
 ================
 
-Closely related to the :doc:`FM2+` socket, uses the :docs:`/Memory/DDR3` memory standard.
+Closely related to the :doc:`FM2+` socket, uses the :doc:`/Memory/DDR3` memory standard.
 
 Key Facts & Figures
 ================

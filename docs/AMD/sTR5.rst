@@ -1,30 +1,29 @@
 ================
-940
+sTR5
 ================
 
 Introduction
 ================
 
-This socket uses the :doc:`/Memory/DDR` memory standard and is closely related to :doc:`939`
-and :doc:`754`.
+sTR5 succeeded :doc:`sTRX4` and uses the :docs:`/Memory/DDR5` memory standard.
 
 Key Facts & Figures
-====================
+================
 
 .. list-table::
    :widths: 50 75
    :header-rows: 0
 
    * - Microarchitecture:
-     - :doc:`/AMD/Microarchs/K8`
+     - :doc:`/AMD/Microarchs/Ryzen`
    * - Process nodes:
-     - AMD 90nm or 65nm
+     - AMD 45nm
    * - Core counts:
-     - 1 or 2 (no SMT)
+     - 12 - 96 (inc. SMT)
    * - Native FSB:
-     - 100 MHz
+     - 200 MHz
 
-Benching it
+Benching It
 ================
 
 TBA

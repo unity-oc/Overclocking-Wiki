@@ -2,6 +2,9 @@
 LGA1150
 ================
 
+Introduction
+================
+
 Successor of the :doc:`LGA1155` socket, predecessor of the :doc:`LGA1151v1` socket.
 Uses the :doc:`/Memory/DDR3` memory standard.
 

@@ -2,8 +2,11 @@
 LGA1151v2
 ================
 
+Introduction
+================
+
 Successor of and closely related to the :doc:`LGA1151v1` socket. Predecessor of the :doc:`LGA1200` socket.
-Uses the :doc:`Memory\DDR3` and :doc:`Memory\DDR4` memory standards.
+Uses the :doc:`/Memory/DDR3` and :doc:`/Memory/DDR4` memory standards.
 
 Key Facts & Figures
 ====================

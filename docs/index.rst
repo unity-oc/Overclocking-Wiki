@@ -36,7 +36,7 @@ Overclocking-Wiki documentation
    AMD/940
    AMD/TR4
    AMD/sTRX4
-   AMD/sTRX5
+   AMD/sTR5
 
 .. toctree::
    :maxdepth: 1
