@@ -1,0 +1,5 @@
+================
+LGA775
+================
+
+Successor of the :doc:`478` socket, uses the :doc:`Memory\DDR``, :doc:`Memory\DDR2` and :doc:`Memory\DDR3` memory standards.

@@ -1,0 +1,5 @@
+================
+LGA1151v1
+================
+
+Successor of the :doc:`LGA1150` socket, uses the :doc:`Memory\DDR3` and :doc:`Memory\DDR4` memory standards.

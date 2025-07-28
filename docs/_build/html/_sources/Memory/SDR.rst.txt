@@ -1,0 +1,7 @@
+================
+SDR
+================
+
+List of sockets using this memory standard:
+
+:doc:`/Intel/370`

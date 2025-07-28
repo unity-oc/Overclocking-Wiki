@@ -1,0 +1,5 @@
+================
+TR4
+================
+
+TR4 is closely related to the :docs:`AM4` socket and uses the :docs:`/Memory/DDR4` memory standard.

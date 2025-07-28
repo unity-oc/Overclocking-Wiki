@@ -1,0 +1,6 @@
+================
+LGA2011
+================
+
+The LGA2011 socket succeeded :doc:`LGA1366` and was succeeded by the :doc:`LGA2011v3` socket. 
+It uses :doc:`/Memory/DDR3` memory standard.

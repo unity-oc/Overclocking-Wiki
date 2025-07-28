@@ -1,0 +1,5 @@
+================
+LGA1700
+================
+
+Successor of the :doc:`LGA1200` socket, uses the :doc:`DDR4`` and `:doc:`DDR5` memory standards.

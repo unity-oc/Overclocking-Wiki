@@ -1,0 +1,5 @@
+================
+754
+================
+
+Closely related to the :doc:`939` socket and uses the :doc:`/Memory/DDR` memory standard.

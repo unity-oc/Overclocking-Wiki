@@ -1,0 +1,10 @@
+================
+K8
+================
+
+The K8 microarchitecture preceded :docs:`K10`.
+Sockets using this microarchitecture:
+
+:doc:`/AMD/939`
+:doc:`/AMD/754`
+:doc:`/AMD/AM2`

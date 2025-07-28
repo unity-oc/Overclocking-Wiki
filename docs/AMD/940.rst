@@ -1,0 +1,5 @@
+================
+940
+================
+
+This socket uses the :doc:`/Memory/DDR` memory standard.

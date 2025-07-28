@@ -1,0 +1,8 @@
+================
+DDR5
+================
+
+List of sockets using this memory standard:
+
+* :doc:`AM5`
+* :doc:`LGA1700`

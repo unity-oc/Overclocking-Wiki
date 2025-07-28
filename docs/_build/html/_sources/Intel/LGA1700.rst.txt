@@ -1,0 +1,6 @@
+================
+LGA1700
+================
+
+Successor of the :doc:`LGA1700` socket, uses the :doc:`Memory/DDR4` and :doc:`Memory/DDR5` memory standards.
+Processors on this socket are built using the :doc:`/Intel/Microarchs/Alder Lake` or :doc:`/Intel/Microarchs/Raptor Lake` microarchitectures.
