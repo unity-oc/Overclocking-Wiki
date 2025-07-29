@@ -1,8 +1,9 @@
 ================
-A
+Socket A
 ================
 
-Socket A (also known as socket 426) is the predecessor of the :doc:`939` socket and uses the :doc:`/Memory/DDR` memory standard.
+Socket A (also known as socket 426) is the predecessor of :doc:`939` and succeeds the :doc:`Slot A` socket.
+It uses the :doc:`/Memory/DDR` memory standard.
 
 Key Facts & Figures
 ====================

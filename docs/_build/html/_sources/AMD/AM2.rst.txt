@@ -13,7 +13,7 @@ Key Facts & Figures
    :header-rows: 0
 
    * - Microarchitecture:
-     - :doc:`/AMD/Microarchs/K8`
+     - :doc:`/AMD/Microarchs/K10`
    * - Process nodes:
      - AMD 90nm or 65nm
    * - Core counts:
@@ -22,6 +22,8 @@ Key Facts & Figures
      - 100 MHz
    * - Chipsets:
      - Nvidia nForce 4 Ultra
+   * - Release Year:
+     - 2006
 
 Benching it
 ================

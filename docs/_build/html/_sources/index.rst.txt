@@ -1,8 +1,4 @@
-.. Overclocking-Wiki documentation master file, created by
-   sphinx-quickstart on Mon Jul 28 04:56:52 2025.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
-
+===============================
 Overclocking-Wiki documentation
 ===============================
 
@@ -10,7 +6,8 @@ Overclocking-Wiki documentation
    :maxdepth: 1
    :caption: AMD Mainstream:
 
-   AMD/A
+   AMD/Slot A
+   AMD/Socket A
    AMD/939
    AMD/754
    AMD/AM2
@@ -40,6 +37,13 @@ Overclocking-Wiki documentation
 
 .. toctree::
    :maxdepth: 1
+   :caption: AMD Mobile:
+
+   AMD/FT3
+   AMD/FT4
+
+.. toctree::
+   :maxdepth: 1
    :caption: AMD Microarchitecures:
 
    AMD/Microarchs/K7
@@ -47,6 +51,7 @@ Overclocking-Wiki documentation
    AMD/Microarchs/K10
    AMD/Microarchs/Bulldozer
    AMD/Microarchs/Ryzen  
+   AMD/Microarchs/Bobcat
 
 .. toctree::
    :maxdepth: 1
@@ -98,3 +103,9 @@ Overclocking-Wiki documentation
    Memory/DDR3
    Memory/DDR4
    Memory/DDR5
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Misc:
+
+   Resources
