@@ -43,6 +43,8 @@ Overclocking-Wiki documentation
    AMD/FP4
    AMD/FP5
    AMD/FP6
+   AMD/FP7
+   AMD/FP8
    AMD/FT3
    AMD/FT4
 
