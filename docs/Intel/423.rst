@@ -6,7 +6,7 @@ Introduction
 ================
 
 Successor of the :doc:`370` socket, uses the :doc:`/Memory/SDR` and :doc:`/Memory/DDR` memory standards. 
-Predecessor of the :doc:`478` socket.
+Predecessor and closely related to the :doc:`478` socket, in fact its CPUs can be adapted to 478.
 
 Key Facts & Figures
 ====================

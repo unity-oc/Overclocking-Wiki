@@ -22,6 +22,8 @@ Key Facts & Figures
      - 2, 4, 6 or 8 (no SMT)
    * - Native FSB:
      - 200 MHz
+   * - Chipsets:
+     - AMD A55, A85X
 
 Benching It
 ================

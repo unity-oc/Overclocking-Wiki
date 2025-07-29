@@ -23,6 +23,8 @@ Key Facts & Figures
      - 2, 4, 6 or 8 (no SMT)
    * - Native FSB:
      - 200 MHz
+   * - Chipsets:
+     - AMD 760G, 870, 970, 990X and 990FX
 
 Benching it
 ================

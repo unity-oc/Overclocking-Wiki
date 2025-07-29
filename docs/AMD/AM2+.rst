@@ -3,6 +3,7 @@ AM2+
 ================
 
 Closely related to and successor of the :doc:`AM2` socket, succeeded by :doc:`AM3`.
+It uses the :doc:`/Memory/DDR2` memory standard.
 
 Key Facts & Figures
 ====================
@@ -19,6 +20,8 @@ Key Facts & Figures
      - 1, 2 or 4 (no SMT)
    * - Native FSB:
      - 200 MHz
+   * - Chipsets:
+     - AMD 790X, 790FX and 790GX, Nvidia
 
 Benching it
 ================

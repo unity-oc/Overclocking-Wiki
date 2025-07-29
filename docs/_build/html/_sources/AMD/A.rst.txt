@@ -2,7 +2,7 @@
 A
 ================
 
-Socket A is the predecessor of the :doc:`939` socket and uses the :doc:`/Memory/DDR` memory standard.
+Socket A (also known as socket 426) is the predecessor of the :doc:`939` socket and uses the :doc:`/Memory/DDR` memory standard.
 
 Key Facts & Figures
 ====================
@@ -19,6 +19,8 @@ Key Facts & Figures
      - Singlecores only
    * - Native FSB:
      - 200 MHz
+   * - Chipsets:
+     - Nvidia nForce2 400 / Ulta 400
 
 Benching it
 ================

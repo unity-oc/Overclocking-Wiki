@@ -24,6 +24,8 @@ Key Facts & Figures
      - 2, 4, 6 or 8 (SMT available on select SKUs)
    * - Native FSB:
      - 100 MHz
+   * - Chipsets:
+     - AMD B350/450/550, X370/X470/X570
 
 Benching it
 ================

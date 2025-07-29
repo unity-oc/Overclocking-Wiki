@@ -20,6 +20,8 @@ Key Facts & Figures
      - 1 or 2 (no SMT)
    * - Native FSB:
      - 100 MHz
+   * - Chipsets:
+     - Nvidia nForce 4 Ultra
 
 Benching it
 ================

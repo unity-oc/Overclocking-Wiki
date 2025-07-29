@@ -5,7 +5,7 @@
 Introduction
 ================
 
-Successor of the :doc:`423` socket, uses the :doc:`/Memory/SDR` and :doc:`/Memory/DDR` memory standards. 
+Successor of the :doc:`423` socket, uses the :doc:`/Memory/SDR`, :doc:`/Memory/DDR` and :doc:`/Memory/DDR2` memory standards. 
 Predecessor of the :doc:`LGA775` socket.
 
 Key Facts & Figures

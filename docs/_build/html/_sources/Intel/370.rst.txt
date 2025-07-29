@@ -6,8 +6,7 @@ Introduction
 ================
 
 Successor of the :doc:`370` socket, uses the :doc:`/Memory/SDR` and :doc:`/Memory/DDR` memory standards. 
-Predecessor of the :doc:`478` socket. 
-This was the last socket (to date) to combine HEDT and mainstream.
+Predecessor of the :doc:`423` socket. 
 
 Key Facts & Figures
 ====================

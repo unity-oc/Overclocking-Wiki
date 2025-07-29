@@ -2,4 +2,4 @@
 LGA4677
 ================
 
-The LGA4677 socket succeeded :doc:`LGA2066`and uses the :doc:`/Memory/DDR5` memory standard.
+The LGA4677 socket succeeded :doc:`LGA2066` and uses the :doc:`/Memory/DDR5` memory standard.

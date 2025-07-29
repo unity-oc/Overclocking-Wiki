@@ -5,9 +5,10 @@ AM3
 Introduction
 ================
 
-AM3 succeeded :doc:`AM2+` and is closely related to it. 
-It uses the :doc:`/Memory/DDR3` memory standard and was succeeded by :doc:`AM3+`,
+AM3 succeeded :doc:`AM2+` and is closely related to it, was succeeded by :doc:`AM3+`,
 with which it is also related.
+It uses the :doc:`/Memory/DDR3` memory standard but its CPUs can be inserted into :doc:`AM2+` sockets 
+and therefore also have :doc:`/Memory/DDR2` IMCs.
 
 Key Facts & Figures
 ====================
@@ -24,6 +25,8 @@ Key Facts & Figures
      - 1, 2, 4 or 6 (no SMT)
    * - Native FSB:
      - 200 MHz
+   * - Chipsets:
+     - AMD 790FX, 870, 880G and 890FX
 
 Benching it
 ================
