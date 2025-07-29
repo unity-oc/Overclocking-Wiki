@@ -24,6 +24,8 @@ Key Facts & Figures
      - 200 MHz
    * - Chipsets:
      - AMD A55, A85X
+   * - Release Year:
+     - 2012
 
 Benching It
 ================

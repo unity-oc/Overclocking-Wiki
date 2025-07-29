@@ -25,6 +25,8 @@ Key Facts & Figures
      - 200 MHz
    * - Chipsets:
      - AMD A55 and A75
+   * - Release Year:
+     - 2011
 
 Benching It
 ====================

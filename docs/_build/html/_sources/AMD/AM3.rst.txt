@@ -25,6 +25,8 @@ Key Facts & Figures
      - 1, 2, 4 or 6 (no SMT)
    * - Native FSB:
      - 200 MHz
+   * - Chipsets:
+     - AMD 790FX, 870, 880G and 890FX
 
 Benching it
 ================

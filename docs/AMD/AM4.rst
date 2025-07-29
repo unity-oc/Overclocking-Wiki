@@ -26,6 +26,8 @@ Key Facts & Figures
      - 100 MHz
    * - Chipsets:
      - AMD B350/450/550, X370/X470/X570
+   * - Release Year:
+     - 2017
 
 Benching it
 ================

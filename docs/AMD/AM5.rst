@@ -25,6 +25,8 @@ Key Facts & Figures
      - 100 MHz
    * - Chipsets:
      - AMD B650, X670, X850 and X870
+   * - Release Year:
+     - 2022
 
 Benching it
 ================
