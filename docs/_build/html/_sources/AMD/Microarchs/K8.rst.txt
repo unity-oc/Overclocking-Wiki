@@ -2,9 +2,37 @@
 K8
 ================
 
-The K8 microarchitecture succeeded :docs:`K7` and preceded :docs:`K10`.
+Introduction
+================
+
+The K8 microarchitecture succeeded :doc:`K7` and preceded :doc:`K10`.
 Sockets using this microarchitecture:
 
-:doc:`/AMD/939`
-:doc:`/AMD/754`
-:doc:`/AMD/AM2`
+* :doc:`/AMD/939`
+* :doc:`/AMD/940`
+* :doc:`/AMD/754`
+* :doc:`/AMD/AM2`
+
+Codenames
+================
+
+* Clawhammer
+* Sledgehammer
+* Newcastle
+* Newark
+* Manchester
+* Winchester
+* Toledo
+* Venus
+* San Diego
+* Palermo (Sempron only)
+* Paris (Sempron only)
+* Albany (Mobile only)
+* Dublin (Mobile only)
+* Georgetown (Mobile only)
+* Roma (Mobile only)
+* Sonora (Mobile only)
+* Odessa (Mobile only)
+* Oakville (Mobile only)
+* Athens (Opteron only)
+* Troy (Opteron only)

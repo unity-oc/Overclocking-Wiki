@@ -5,7 +5,19 @@ K7
 Introduction
 ================
 
-The K7 microarchitecture preceded :docs:`K8`.
+The K7 microarchitecture preceded :doc:`K8`.
 Sockets using this microarchitecture:
 
 :doc:`/AMD/A`
+
+Codenames (mainstream):
+
+* Thunderbird
+* Palomino
+* Barton
+* Thoroughbred
+* Thorton
+* Spitfire (Duron only)
+* Applebred (Duron only)
+* Morgan (Duron only)
+* Camaro (Mobile only)
