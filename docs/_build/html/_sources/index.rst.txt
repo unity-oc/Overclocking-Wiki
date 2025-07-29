@@ -39,6 +39,10 @@ Overclocking-Wiki documentation
    :maxdepth: 1
    :caption: AMD Mobile:
 
+   AMD/FP3
+   AMD/FP4
+   AMD/FP5
+   AMD/FP6
    AMD/FT3
    AMD/FT4
 
