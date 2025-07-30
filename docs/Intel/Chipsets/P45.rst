@@ -1,0 +1,21 @@
+================
+P45
+================
+
+Introduction
+========================================
+
+P45 is a high-end chipset for the :doc:`/Intel/LGA775` socket.
+Motherboards built on P45 either use the :doc:`/Memory/DDR2` or :doc:`/Memory/DDR3` memory standard.
+
+Notable Benching Motherboards using P45
+========================================
+
+* ASUS Maximus II Gene
+* ASUS Maximus II Formula
+* Gigabyte GA-EP45-UD3P
+* Gigabyte GA-EP45-UD3R
+* Gigabyte GA-EP45-Extreme
+* Gigabyte GA-EP45T-Extreme
+* Gigabyte GA-EP45T-UD3P
+* Gigabyte GA-EP45T-UD3R

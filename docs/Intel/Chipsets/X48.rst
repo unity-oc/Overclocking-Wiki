@@ -1,0 +1,17 @@
+================
+X48
+================
+
+Introduction
+================
+
+X48 is a high-end chipset for the :doc:`/Intel/LGA775` socket.
+
+Notable Benching Motherboards using X48
+========================================
+
+
+* Maximus II Gene
+* Maximus II Formula
+* Rampage Formula
+* Rampage Extreme

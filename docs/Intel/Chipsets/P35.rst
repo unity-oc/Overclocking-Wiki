@@ -1,0 +1,20 @@
+================
+P35
+================
+
+Introduction
+========================================
+
+P35 is a high-end chipset for the :doc:`/Intel/LGA775` socket.
+Motherboards built on P35 either use the :doc:`/Memory/DDR2` or :doc:`/Memory/DDR3` memory standard.
+
+Notable Benching Motherboards using P35
+========================================
+
+* ASUS Blitz Extreme
+* ASUS P5K Deluxe/WiFi-AP
+* ASUS P5K Premium/WiFi-AP
+* ASUS P5K3 Deluxe/WiFi-AP
+* ASUS P5K3 Premium/WiFi-AP
+* Gigabyte GA-P35-DQ6
+* Gigabyte GA-P35T-DQ6
