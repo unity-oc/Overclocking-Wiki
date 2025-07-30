@@ -6,3 +6,14 @@ Introduction
 ================
 
 Z97 is a high-end chipset for the :doc:`/Intel/LGA1150` socket, it succeeded :doc:`Z87`.
+
+Notable Benching Motherboards using Z97
+========================================
+
+* Asrock Z97 OC Formula
+* ASUS Maximus VII Gene
+* ASUS Maximus VII Formula
+* ASUS Maximus VII Extreme
+* ASUS Maximus VII Impact
+* Gigabyte Z97X SOC Force
+* Gigabyte Z97X SOC Force LN2

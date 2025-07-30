@@ -7,3 +7,11 @@ Introduction
 
 Z170 is a high-end chipset for the :doc:`/Intel/LGA1151v1` socket. 
 Both :doc:`/Memory/DDR3` and :doc:`/Memory/DDR4` motherboards exist on this socket.
+
+Notable Benching Motherboards using Z170
+========================================
+
+* Arock Z170M OC Formula
+* ASUS Maximus VIII Extreme
+* ASUS Maximus VIII Impact
+* Gigabyte Z170X-SOC Force LN2
