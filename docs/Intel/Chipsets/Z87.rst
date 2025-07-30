@@ -6,3 +6,13 @@ Introduction
 ================
 
 Z87 is a high-end chipset for the :doc:`/Intel/LGA1150` socket, it was succeeded by :doc:`Z87`.
+
+Notable Benching Motherboards using Z87
+========================================
+
+* Asrock Z87 OC Formula
+* ASUS Maximus VI Gene
+* ASUS Maximus VI Formula
+* ASUS Maximus VI Extreme
+* ASUS Maximus VI Impact
+* Gigabyte Z87X-OC Force

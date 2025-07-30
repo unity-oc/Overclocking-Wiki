@@ -6,3 +6,9 @@ Introduction
 ================
 
 P67 is a high-end chipset for the :doc:`/Intel/LGA1155` socket.
+
+Notable Benching Motherboards using P67
+========================================
+
+* ASUS Maximus IV Extreme
+* Gigabyte GA-P67A-UD7

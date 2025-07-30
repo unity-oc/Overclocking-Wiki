@@ -6,3 +6,15 @@ Introduction
 ================
 
 Z77 is a high-end chipset for the :doc:`/Intel/LGA1155` socket.
+
+Notable Benching Motherboards using Z77
+========================================
+
+* Asrock Z77 OC Formula
+* ASUS Maximus IV Gene-Z
+* ASUS Maximus IV Extreme
+* ASUS Maximus IV Extreme-Z
+* ASUS Maximus V Gene
+* ASUS Maximus V Formula
+* ASUS Maximus V Extreme
+* Gigabyte Z77X-UP7

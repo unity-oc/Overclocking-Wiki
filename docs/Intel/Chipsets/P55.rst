@@ -3,6 +3,17 @@ P55
 ================
 
 Introduction
-================
+========================================
 
 P55 is a high-end chipset for the :doc:`/Intel/LGA1156` socket, complimenting :doc:`H55`.
+
+Notable Benching Motherboards using P55
+========================================
+
+* ASUS Maximus III Gene
+* ASUS Maximus III Formula
+* ASUS Maximus III Extreme
+* EVGA P55 Classified 200
+* Gigabyte GA-P55A-UD5
+* Gigabyte GA-P55A-UD6
+* Gigabyte GA-P55A-UD7
