@@ -1,0 +1,8 @@
+================
+P55
+================
+
+Introduction
+================
+
+P55 is a high-end chipset for the :doc:`/Intel/LGA1156` socket.

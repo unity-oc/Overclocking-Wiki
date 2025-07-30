@@ -1,0 +1,8 @@
+================
+X299
+================
+
+Introduction
+================
+
+X299 is a chipset for the :doc:`/Intel/LGA2066` socket.

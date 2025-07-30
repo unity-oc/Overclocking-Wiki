@@ -85,6 +85,7 @@ Overclocking-Wiki documentation
    Intel/LGA1151v2
    Intel/LGA1200
    Intel/LGA1700
+   Intel/LGA1851
 
 .. toctree::
    :maxdepth: 1

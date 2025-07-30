@@ -1,0 +1,8 @@
+================
+X99
+================
+
+Introduction
+================
+
+X99 is a chipset for the :doc:`/Intel/LGA2011v3` socket.

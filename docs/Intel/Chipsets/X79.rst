@@ -1,0 +1,8 @@
+================
+X79
+================
+
+Introduction
+================
+
+X79 is a chipset for the :doc:`/Intel/LGA2011` socket.

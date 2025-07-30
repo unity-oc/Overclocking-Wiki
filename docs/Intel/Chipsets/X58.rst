@@ -1,0 +1,8 @@
+================
+X58
+================
+
+Introduction
+================
+
+X58 is a chipset for the :doc:`/Intel/LGA1366` socket.

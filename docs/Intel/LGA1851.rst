@@ -6,7 +6,6 @@ Introduction
 ================
 
 Successor of the :doc:`LGA1700` socket, uses the :doc:`/Memory/DDR5` memory standards.
-Processors on this socket are built using the :doc:`/Intel/Microarchs/Arrow Lake` microarchitecture.
 
 Key Facts & Figures
 ====================
@@ -16,13 +15,13 @@ Key Facts & Figures
    :header-rows: 0
 
    * - Microarchitecture:
-     - :doc:`/Intel/Microarchs/Alder Lake`, :doc:`/Intel/Microarchs/Raptor Lake`
+     - :doc:`/Intel/Microarchs/Arrow Lake`
    * - Codenames:
      - Arrow Lake
    * - Process nodes:
-     - Intel 10nm
-   * - Core counts:
-     - 4, 6, 8, 10 (SMT available in select SKUs)
+     - TSMC 3nm
+   * - Core counts (unlocked SKUs only):
+     - 6P + 8E, 8P + 12E, 8P + 16E (no SMT)
    * - Native FSB:
      - 100 MHz
    * - Release Year:

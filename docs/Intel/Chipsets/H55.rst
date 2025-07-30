@@ -1,0 +1,8 @@
+================
+H55
+================
+
+Introduction
+================
+
+H55 is a mid-market / low-end chipset for the :doc:`/Intel/LGA1156` socket.
