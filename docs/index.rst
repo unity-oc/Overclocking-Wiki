@@ -113,8 +113,11 @@ Overclocking-Wiki documentation
 
 .. toctree::
    :maxdepth: 1
-   :caption: Intel Microarchitecures:
+   :caption: Intel Chipsets:
 
+   Intel/Chipsets/H55
+   Intel/Chipsets/P55
+   Intel/Chipsets/P67
    Intel/Chipsets/Z77
    Intel/Chipsets/Z87
    Intel/Chipsets/Z97
@@ -127,6 +130,10 @@ Overclocking-Wiki documentation
    Intel/Chipsets/Z690
    Intel/Chipsets/Z790
    Intel/Chipsets/Z890
+   Intel/Chipsets/X58
+   Intel/Chipsets/X79
+   Intel/Chipsets/X99
+   Intel/Chipsets/X299
 
 .. toctree::
    :maxdepth: 1
