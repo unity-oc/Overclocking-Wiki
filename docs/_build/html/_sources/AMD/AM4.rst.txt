@@ -25,7 +25,7 @@ Key Facts & Figures
    * - Native FSB:
      - 100 MHz
    * - Chipsets:
-     - AMD B350/450/550, X370/X470/X570
+     - AMD :doc:`/AMD/Chipsets/B350` / :doc:`/AMD/Chipsets/450`/ :doc:`/AMD/Chipsets/B550`, :doc:`/AMD/Chipsets/X370` / :doc:`/AMD/Chipsets/X470`/ :doc:`/AMD/Chipsets/X570``
    * - Release Year:
      - 2017
 
