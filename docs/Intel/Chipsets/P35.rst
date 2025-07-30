@@ -5,7 +5,7 @@ P35
 Introduction
 ========================================
 
-P35 is a high-end chipset for the :doc:`/Intel/LGA775` socket.
+P35 is a chipset for the :doc:`/Intel/LGA775` socket and was succeded by :doc:`P45`.
 Motherboards built on P35 either use the :doc:`/Memory/DDR2` or :doc:`/Memory/DDR3` memory standard.
 
 Notable Benching Motherboards using P35
