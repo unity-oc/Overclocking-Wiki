@@ -1,4 +1,15 @@
+================
+X38
+================
 
+Introduction
+========================================
+
+X38 is a high-end chipset for the :doc:`/Intel/LGA775` socket.
+Motherboards built on P45 either use the :doc:`/Memory/DDR2` or :doc:`/Memory/DDR3` memory standard.
+
+Notable Benching Motherboards using X38
+========================================
 
 * Maximus Extreme
 * Maximus Formula

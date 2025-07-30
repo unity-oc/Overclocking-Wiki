@@ -118,6 +118,10 @@ Overclocking-Wiki documentation
    :maxdepth: 1
    :caption: Intel Chipsets:
 
+   Intel/Chipsets/P35
+   Intel/Chipsets/P45
+   Intel/Chipsets/X38
+   Intel/Chipsets/X48
    Intel/Chipsets/H55
    Intel/Chipsets/P55
    Intel/Chipsets/P67
