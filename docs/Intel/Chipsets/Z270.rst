@@ -1,0 +1,8 @@
+================
+Z270
+================
+
+Introduction
+================
+
+Z270 is a high-end chipset for the :doc:`/Intel/LGA1151v1` socket, it succeeded :doc:`Z170`.

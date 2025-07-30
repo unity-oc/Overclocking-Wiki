@@ -1,0 +1,9 @@
+================
+Z690
+================
+
+Introduction
+================
+
+Z690 is a high-end chipset for the :doc:`/Intel/LGA1700` socket.
+Both motherboards using :doc:`/Memory/DDR4` and :doc:`/Memory/DDR5` exist on this socket (but never both simultaneously!).

@@ -1,0 +1,8 @@
+================
+Z590
+================
+
+Introduction
+================
+
+Z590 is a high-end chipset for the :doc:`/Intel/LGA1200` socket.

@@ -1,0 +1,9 @@
+================
+Z170
+================
+
+Introduction
+================
+
+Z170 is a high-end chipset for the :doc:`/Intel/LGA1151v1` socket. 
+Both :doc:`/Memory/DDR3` and :doc:`/Memory/DDR4` motherboards exist on this socket.

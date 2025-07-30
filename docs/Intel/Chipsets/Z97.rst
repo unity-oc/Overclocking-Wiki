@@ -1,0 +1,8 @@
+================
+Z97
+================
+
+Introduction
+================
+
+Z97 is a high-end chipset for the :doc:`/Intel/LGA1150` socket, it succeeded :doc:`Z87`.

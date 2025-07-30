@@ -1,0 +1,8 @@
+================
+Z87
+================
+
+Introduction
+================
+
+Z87 is a high-end chipset for the :doc:`/Intel/LGA1150` socket, it was succeeded by :doc:`Z87`.

@@ -112,6 +112,22 @@ Overclocking-Wiki documentation
 
 .. toctree::
    :maxdepth: 1
+   :caption: Intel Microarchitecures:
+
+   Intel/Chipsets/Z77
+   Intel/Chipsets/Z87
+   Intel/Chipsets/Z97
+   Intel/Chipsets/Z170
+   Intel/Chipsets/Z270
+   Intel/Chipsets/Z370
+   Intel/Chipsets/Z390
+   Intel/Chipsets/Z490
+   Intel/Chipsets/Z590
+   Intel/Chipsets/Z690
+   Intel/Chipsets/Z790
+
+.. toctree::
+   :maxdepth: 1
    :caption: Memory Standards:
 
    Memory/SDR

@@ -1,0 +1,8 @@
+================
+Z77
+================
+
+Introduction
+================
+
+Z77 is a high-end chipset for the :doc:`/Intel/LGA1155` socket.

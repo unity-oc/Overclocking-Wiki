@@ -1,0 +1,8 @@
+================
+Z490
+================
+
+Introduction
+================
+
+Z490 is a high-end chipset for the :doc:`/Intel/LGA1200` socket.
