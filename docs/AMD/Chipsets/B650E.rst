@@ -10,4 +10,5 @@ B650E is a mid-market chipset for the :doc:`/AMD/AM5` socket and is closely rela
 Notable Benching Motherboards using B650
 ========================================
 
+* Gigabyte B650E Aorus Master
 * Gigabyte B650E Aorus Tachyon

@@ -1,0 +1,13 @@
+================
+B850
+================
+
+Introduction
+================
+
+B850 is a mid-market chipset for the :doc:`/AMD/AM5` socket and is the successor to :doc:`B650`.
+
+Notable Benching Motherboards using B650
+========================================
+
+* ?
