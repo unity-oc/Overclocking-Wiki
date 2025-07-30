@@ -6,3 +6,10 @@ Introduction
 ================
 
 Z890 is a high-end chipset for the :doc:`/Intel/LGA1851` socket.
+
+Notable Benching Motherboards using Z890
+========================================
+
+* Asrock Z890 Taich OCF
+* ASUS Z890 APEX
+* Gigabyte Z890 Aorus Tachyon Ice

@@ -6,3 +6,13 @@ Introduction
 ================
 
 X99 is a chipset for the :doc:`/Intel/LGA2011v3` socket.
+
+Notable Benching Motherboards using X99
+========================================
+
+* Asrock X99 
+* ASUS Rampage V Extreme
+* ASUS Rampage V Extreme Edition 10
+* Gigabyte GA-X99-SOC Force
+* Gigabyte GA-X99-SOC Force LN2
+* Gigabyte GA-X99-SOC Champion

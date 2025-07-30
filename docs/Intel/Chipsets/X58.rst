@@ -6,3 +6,16 @@ Introduction
 ================
 
 X58 is a chipset for the :doc:`/Intel/LGA1366` socket.
+
+Notable Benching Motherboards using X58
+========================================
+
+* Rampage II Gene
+* Rampage II Extreme
+* Rampage III Gene
+* Rampage III Formula
+* Rampage III Extreme
+* Rampage III Black Edition
+* Gigabyte X58A-OC
+* Gigabyte GA-X58-UD7
+* Gigabyte GA-X58-UD9

@@ -6,3 +6,10 @@ Introduction
 ================
 
 Z390 is a high-end chipset for the :doc:`/Intel/LGA1151v2` socket.
+
+Notable Benching Motherboards using Z390
+========================================
+
+* ASUS Maximus XI Gene
+* ASUS Maximus XI Apex
+* Gigabyte Z390 Aorus Master

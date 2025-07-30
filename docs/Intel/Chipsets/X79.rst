@@ -6,3 +6,12 @@ Introduction
 ================
 
 X79 is a chipset for the :doc:`/Intel/LGA2011` socket.
+
+Notable Benching Motherboards using X79
+========================================
+
+* ASUS Rampage IV Gene
+* ASUS Rampage IV Formula
+* ASUS Rampage IV Extreme
+* ASUS Rampage IV Black Edition
+* Gigabyte GA-X79-UP7

@@ -7,3 +7,13 @@ Introduction
 
 Z690 is a high-end chipset for the :doc:`/Intel/LGA1700` socket.
 Both motherboards using :doc:`/Memory/DDR4` and :doc:`/Memory/DDR5` exist on this socket (but never both simultaneously!).
+
+Notable Benching Motherboards using Z690
+========================================
+
+* Asrock Z690 Aqua
+* Asrock Z690 Aqua OC
+* ASUS Maximus Z690 Apex
+* Gigabyte Z690 Aorus Tachyon
+* MSI MEG Z690 Unify-X
+* MSI MEG Z690i Unify-X

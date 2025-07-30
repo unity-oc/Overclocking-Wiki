@@ -6,3 +6,13 @@ Introduction
 ================
 
 X299 is a chipset for the :doc:`/Intel/LGA2066` socket.
+
+Notable Benching Motherboards using X299
+========================================
+
+* Asrock X299 OC Formula
+* ASUS Rampage VI Apex
+* ASUS Rampage VI Extreme
+* ASUS Rampage VI Extreme Encore
+* ASUS Rampage VI Extreme Extreme Omega
+* Gigabyte X299 SOC Champion

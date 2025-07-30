@@ -6,3 +6,10 @@ Introduction
 ================
 
 Z590 is a high-end chipset for the :doc:`/Intel/LGA1200` socket.
+
+Notable Benching Motherboards using Z590
+========================================
+
+* Asrock Z590 OC Formula
+* ASUS Maximus XIII Apex
+* MSI MEG Z590 Unify-X

@@ -6,3 +6,12 @@ Introduction
 ================
 
 Z490 is a high-end chipset for the :doc:`/Intel/LGA1200` socket.
+
+Notable Benching Motherboards using Z490
+========================================
+
+* Asrock Z490 Aqua
+* ASUS Maximus XII Apex
+* MSI MEG Z490 Unify
+* MSI MEG Z490i Unify
+* Gigabyte Z490 Aorus Master

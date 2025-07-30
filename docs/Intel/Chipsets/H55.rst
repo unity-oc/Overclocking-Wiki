@@ -6,3 +6,8 @@ Introduction
 ================
 
 H55 is a mid-market / low-end chipset for the :doc:`/Intel/LGA1156` socket, complimenting :doc:`P55`.
+
+Notable Benching Motherboards using H55
+========================================
+
+* Gigabyte H55M-UD2H

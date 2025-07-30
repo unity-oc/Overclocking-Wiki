@@ -6,3 +6,9 @@ Introduction
 ================
 
 Z370 is a high-end chipset for the :doc:`/Intel/LGA1151v2` socket.
+
+Notable Benching Motherboards using Z370
+========================================
+
+* ASUS Maximus X Apex
+* Gigabyte Z370X SOC Force LN2

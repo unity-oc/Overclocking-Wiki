@@ -7,3 +7,12 @@ Introduction
 
 Z790 is a high-end chipset for the :doc:`/Intel/LGA1700` socket.
 Both motherboards using :doc:`/Memory/DDR4` and :doc:`/Memory/DDR5` exist on this socket (but never both simultaneously!).
+While some motherboard vendors (Gigabyte) denoted the Z790 refresh as "Z790 X", the chipsets are actually identical.
+
+Notable Benching Motherboards using Z790
+========================================
+
+* Asrock Z790 Aqua OC
+* ASUS Maximus Z790 Apex
+* Gigabyte Z790 Aorus Tachyon
+* Gigabyte Z790 X Aorus Tachyon

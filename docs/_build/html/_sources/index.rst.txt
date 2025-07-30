@@ -70,7 +70,7 @@ Overclocking-Wiki documentation
    AMD/Chipsets/B450
    AMD/Chipsets/B550
    AMD/Chipsets/B650
-   AMD/Chipsets/B550E
+   AMD/Chipsets/B650E
    AMD/Chipsets/B850
 
 .. toctree::
