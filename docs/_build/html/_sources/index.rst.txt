@@ -61,6 +61,17 @@ Overclocking-Wiki documentation
 
 .. toctree::
    :maxdepth: 1
+   :caption: AMD Chipsets:
+
+   AMD/Chipsets/X370
+   AMD/Chipsets/X470
+   AMD/Chipsets/X570
+   AMD/Chipsets/B350
+   AMD/Chipsets/B450
+   AMD/Chipsets/B550
+
+.. toctree::
+   :maxdepth: 1
    :caption: Intel Mainstream:
 
    Intel/370

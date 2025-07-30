@@ -1,0 +1,8 @@
+================
+X570
+================
+
+Introduction
+================
+
+High-end chipset for the :doc:`/AMD/AM4` socket. Closely related to :doc:`B550`, successor of :doc:`X470`.

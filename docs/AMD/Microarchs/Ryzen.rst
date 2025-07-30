@@ -13,3 +13,14 @@ Sockets using this microarchitecture:
 * :doc:`/AMD/TR4`
 * :doc:`/AMD/sTRX4`
 * :doc:`/AMD/sTR5`
+
+Codenames
+================
+
+* Zen 1
+* Zen 1 Plus
+* Zen 2
+* Zen 3
+* Zen 3 Plus
+* Zen 4
+* Zen 5

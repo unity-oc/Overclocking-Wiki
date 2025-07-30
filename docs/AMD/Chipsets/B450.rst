@@ -1,0 +1,9 @@
+================
+B450
+================
+
+Introduction
+================
+
+High-end chipset for the :doc:`/AMD/AM4` socket. Closely related to :doc:`X370`. 
+Successor of :doc:`B350`, predecessor of :doc:`B550`.
