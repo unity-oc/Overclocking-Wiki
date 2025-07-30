@@ -6,9 +6,11 @@ Introduction
 ================
 
 Z270 is a high-end chipset for the :doc:`/Intel/LGA1151v1` socket, it succeeded :doc:`Z170`.
+Both :doc:`/Memory/DDR3` and :doc:`/Memory/DDR4` motherboards exist on this chipset.
 
 Notable Benching Motherboards using Z270
 ========================================
 
 * ASUS Maximus IX Extreme
 * ASUS Maximus IX APEX
+* MSI XPower Gaming Titanium

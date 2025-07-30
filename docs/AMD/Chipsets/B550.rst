@@ -6,3 +6,9 @@ Introduction
 ================
 
 High-end chipset for the :doc:`/AMD/AM4` socket. Closely related to :doc:`X570`, successor of :doc:`B450`.
+
+Notable Benching Motherboards using B550
+========================================
+
+* ASUS ROG Strix B550-I
+* Gigabyte B550 Aorus Master

@@ -1,0 +1,13 @@
+================
+B650
+================
+
+Introduction
+================
+
+B650 is a mid-market chipset for the :doc:`/AMD/AM5` socket and is closely related to :doc:`B650E`.
+
+Notable Benching Motherboards using B650
+========================================
+
+* ?

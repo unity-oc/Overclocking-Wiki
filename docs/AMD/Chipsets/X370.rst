@@ -6,3 +6,10 @@ Introduction
 ================
 
 High-end chipset for the :doc:`/AMD/AM4` socket. Closely related to :doc:`B350`, predecessor of :doc:`X470`.
+
+Notable Benching Motherboards using X370
+========================================
+
+* Crosshair VI Hero
+* Crosshair VI Extreme
+* Gigabyte X370 Gaming K7

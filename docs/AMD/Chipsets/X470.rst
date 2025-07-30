@@ -6,3 +6,9 @@ Introduction
 ================
 
 High-end chipset for the :doc:`/AMD/AM4` socket. Closely related to :doc:`B450`, predecessor of :doc:`X570`, successor of :doc:`X370`.
+
+Notable Benching Motherboards using X470
+========================================
+
+* Crosshair VII Hero
+* Gigabyte X470 Gaming 7 WiFi

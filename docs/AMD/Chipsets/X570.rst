@@ -6,3 +6,12 @@ Introduction
 ================
 
 High-end chipset for the :doc:`/AMD/AM4` socket. Closely related to :doc:`B550`, successor of :doc:`X470`.
+
+Notable Benching Motherboards using X570
+========================================
+
+* Asrock X570 Aqua
+* ASUS Crosshair VIII Hero
+* ASUS Crosshair VIII Formula
+* ASUS Crosshair VIII Extreme
+* ASUS Crosshair VIII Dark Hero
