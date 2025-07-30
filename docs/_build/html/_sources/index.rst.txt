@@ -125,6 +125,7 @@ Overclocking-Wiki documentation
    Intel/Chipsets/Z590
    Intel/Chipsets/Z690
    Intel/Chipsets/Z790
+   Intel/Chipsets/Z890
 
 .. toctree::
    :maxdepth: 1

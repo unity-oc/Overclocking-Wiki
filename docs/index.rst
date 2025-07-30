@@ -85,6 +85,7 @@ Overclocking-Wiki documentation
    Intel/LGA1151v2
    Intel/LGA1200
    Intel/LGA1700
+   Intel/LGA1851
 
 .. toctree::
    :maxdepth: 1
@@ -125,6 +126,7 @@ Overclocking-Wiki documentation
    Intel/Chipsets/Z590
    Intel/Chipsets/Z690
    Intel/Chipsets/Z790
+   Intel/Chipsets/Z890
 
 .. toctree::
    :maxdepth: 1
