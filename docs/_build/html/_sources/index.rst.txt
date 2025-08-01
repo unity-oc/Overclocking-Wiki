@@ -71,7 +71,9 @@ Overclocking-Wiki documentation
    AMD/Chipsets/B550
    AMD/Chipsets/B650
    AMD/Chipsets/B650E
+   AMD/Chipsets/X670
    AMD/Chipsets/B850
+   AMD/Chipsets/X870
 
 .. toctree::
    :maxdepth: 1

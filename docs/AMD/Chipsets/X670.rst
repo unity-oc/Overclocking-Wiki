@@ -1,0 +1,13 @@
+================
+X670
+================
+
+Introduction
+================
+
+High-end chipset for the :doc:`/AMD/AM5` socket. Closely related to :doc:`B650`.
+
+Notable Benching Motherboards using X570
+========================================
+
+* TBA

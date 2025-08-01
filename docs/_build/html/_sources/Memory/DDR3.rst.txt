@@ -16,3 +16,5 @@ List of sockets using this memory standard:
 * :doc:`/Intel/LGA1150`
 * :doc:`/Intel/LGA1151v1`
 * :doc:`/Intel/LGA1151v2`
+* :doc:`/Intel/LGA1366`
+* :doc:`/Intel/LGA2011`

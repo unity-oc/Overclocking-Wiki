@@ -8,7 +8,7 @@ Introduction
 The K7 microarchitecture preceded :doc:`K8`.
 Sockets using this microarchitecture:
 
-:doc:`/AMD/A`
+:doc:`/AMD/Socket A`
 
 Codenames (mainstream):
 
