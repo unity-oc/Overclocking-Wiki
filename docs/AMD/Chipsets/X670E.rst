@@ -1,0 +1,13 @@
+================
+X670E
+================
+
+Introduction
+================
+
+High-end chipset for the :doc:`/AMD/AM5` socket. Closely related to :doc:`X670`.
+
+Notable Benching Motherboards using X670E
+=========================================
+
+* TBA

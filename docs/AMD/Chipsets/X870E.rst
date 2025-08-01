@@ -1,0 +1,15 @@
+================
+X870E
+================
+
+Introduction
+================
+
+High-end chipset for the :doc:`/AMD/AM5` socket. Closely related to :doc:`X870`, successor of :doc:`X670E`.
+
+Notable Benching Motherboards using X870
+========================================
+
+* ASUS ROG Crosshair X870E Hero
+* ASUS ROG Crosshair X870E Extreme
+* ASUS ROG Crosshair X870E Apex

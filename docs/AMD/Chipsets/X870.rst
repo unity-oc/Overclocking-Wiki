@@ -7,7 +7,7 @@ Introduction
 
 High-end chipset for the :doc:`/AMD/AM5` socket. Closely related to :doc:`B550`, successor of :doc:`X670`.
 
-Notable Benching Motherboards using X570
+Notable Benching Motherboards using X870
 ========================================
 
-* TBA
+* Gigabyte X870 Aorus Tachyon Ice
