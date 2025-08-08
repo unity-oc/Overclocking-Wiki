@@ -165,6 +165,13 @@ Overclocking-Wiki documentation
    ASUS/CIVE
    ASUS/CVF
    ASUS/CVF-Z
+   ASUS/C6H
+   ASUS/C7H
+   ASUS/C8H
+   ASUS/C8I
+   ASUS/C8D
+   ASUS/C670H
+   ASUS/C870A
 
 .. toctree::
    :maxdepth: 1
