@@ -163,9 +163,14 @@ Overclocking-Wiki documentation
    ASUS/RIIIBE
    ASUS/RIVBE
    ASUS/RVED10
+   ASUS/MVE
    ASUS/M9A
    ASUS/M10A
    ASUS/M11A
+   ASUS/M12A
+   ASUS/Z690A
+   ASUS/Z790A
+   ASUS/Z890A
 
 .. toctree::
    :maxdepth: 1
