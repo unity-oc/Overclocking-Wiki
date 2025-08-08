@@ -157,7 +157,18 @@ Overclocking-Wiki documentation
 
 .. toctree::
    :maxdepth: 1
-   :caption: ASUS Motherboards:
+   :caption: ASUS AMD Motherboards:
+
+   ASUS/Crosshair
+   ASUS/CIIF
+   ASUS/CIIIF
+   ASUS/CIVE
+   ASUS/CVF
+   ASUS/CVF-Z
+
+.. toctree::
+   :maxdepth: 1
+   :caption: ASUS Intel Motherboards:
 
    ASUS/REX
    ASUS/RIIIBE
