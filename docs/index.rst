@@ -157,6 +157,18 @@ Overclocking-Wiki documentation
 
 .. toctree::
    :maxdepth: 1
+   :caption: ASUS Motherboards:
+
+   ASUS/REX
+   ASUS/RIIIBE
+   ASUS/RIVBE
+   ASUS/RVED10
+   ASUS/M9A
+   ASUS/M10A
+   ASUS/M11A
+
+.. toctree::
+   :maxdepth: 1
    :caption: Misc:
 
    Resources
