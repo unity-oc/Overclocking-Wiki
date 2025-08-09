@@ -14,7 +14,20 @@ Sockets using this microarchitecture:
 
 Codenames:
 
-* Zambezi (1st gen)
-* Vishera (2nd gen, mainstream) Piledriver (2nd gen, APU)
-* Steamroller (3rd gen)
-* Excavator (4th gen)
+.. list-table::
+   :widths: 50 75
+   :header-rows: 0
+
+   * - Zambezi (1st gen)
+     - ?
+   * - Vishera (2nd gen, mainstream) Piledriver (2nd gen, APU)
+     - ?
+   * - Steamroller (3rd gen)
+     - ?
+   * - Excavator (4th gen)
+     - ?
+
+How to bench it
+================
+
+TBA
