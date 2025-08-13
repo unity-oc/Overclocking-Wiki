@@ -194,6 +194,27 @@ Overclocking-Wiki documentation
 
 .. toctree::
    :maxdepth: 1
+   :caption: Gigabyte AMD Motherboards:
+
+   Gigabyte/B650etachy
+   Gigabyte/X870tachy
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Gigabyte Intel Motherboards:
+
+   Gigabyte/Z87LN2
+   Gigabyte/Z97LN2
+   Gigabyte/Z170LN2
+   Gigabyte/Z370LN2
+   Gigabyte/Z590tachy
+   Gigabyte/Z690tachy
+   Gigabyte/Z790tachy
+   Gigabyte/Z790tachyX
+   Gigabyte/Z890tachy
+
+.. toctree::
+   :maxdepth: 1
    :caption: Misc:
 
    Resources
