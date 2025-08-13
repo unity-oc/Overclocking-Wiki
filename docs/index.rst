@@ -196,6 +196,13 @@ Overclocking-Wiki documentation
    :maxdepth: 1
    :caption: Gigabyte AMD Motherboards:
 
+   Gigabyte/790xUD3P
+   Gigabyte/790xUD4P
+   Gigabyte/890fxUD5
+   Gigabyte/890fxUD7
+   Gigabyte/990fxUD3
+   Gigabyte/990fxUD5
+   Gigabyte/990fxUD7
    Gigabyte/B650etachy
    Gigabyte/X870tachy
 
