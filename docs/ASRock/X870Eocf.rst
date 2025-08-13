@@ -1,11 +1,11 @@
 ====================================================
-Gigabyte GA-EP45-Extreme
+X870E Taichi OC Formula
 ====================================================
 
 Introduction
 ================
 
-:doc:`/Memory/DDR2` version of the :doc:`EP45Textreme`.
+TBA
 
 Key Facts & Figures
 ====================
