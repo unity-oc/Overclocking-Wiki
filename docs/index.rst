@@ -190,12 +190,17 @@ Overclocking-Wiki documentation
    ASUS/M12A
    ASUS/Z690A
    ASUS/Z790A
+   ASUS/Z790AE
    ASUS/Z890A
 
 .. toctree::
    :maxdepth: 1
    :caption: Gigabyte AMD Motherboards:
 
+   Gigabyte/A85xUP4
+   Gigabyte/A85xWifi
+   Gigabyte/A88xUP4
+   Gigabyte/A88xWifi
    Gigabyte/790xUD3P
    Gigabyte/790xUD4P
    Gigabyte/890fxUD5
@@ -210,6 +215,11 @@ Overclocking-Wiki documentation
    :maxdepth: 1
    :caption: Gigabyte Intel Motherboards:
 
+   Gigabyte/EP45extreme
+   Gigabyte/EP45Textreme
+   Gigabyte/X58aOC
+   Gigabyte/X58aUD7
+   Gigabyte/X58aUD9
    Gigabyte/Z87LN2
    Gigabyte/Z97LN2
    Gigabyte/Z170LN2
@@ -219,6 +229,12 @@ Overclocking-Wiki documentation
    Gigabyte/Z790tachy
    Gigabyte/Z790tachyX
    Gigabyte/Z890tachy
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Personal Projects:
+
+   Personal Projects/project600
 
 .. toctree::
    :maxdepth: 1
