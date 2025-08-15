@@ -4,6 +4,41 @@ Overclocking-Wiki documentation
 
 .. toctree::
    :maxdepth: 1
+   :caption: 2D Benchmarks:
+
+   Benchmarks/1M
+   Benchmarks/32M
+   Benchmarks/pifast
+   Benchmarks/wPrime
+   Benchmarks/Cinebench
+   Benchmarks/GB3
+   Benchmarks/GB4
+   Benchmarks/GB5
+   Benchmarks/GB6
+   Benchmarks/GPUpi
+   Benchmarks/x265
+   Benchmarks/XTU2.0
+   Benchmarks/Y-Cruncher
+   Benchmarks/7zpi
+   Benchmarks/valid
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 2D Benchmarks:
+
+   Benchmarks/3DM01
+   Benchmarks/3DM03
+   Benchmarks/3DM05
+   Benchmarks/3DM06
+   Benchmarks/Aquamark
+   Benchmarks/FS   
+   Benchmarks/TS
+   Benchmarks/Heaven
+   Benchmarks/Superposition
+   Benchmarks/Vantage
+
+.. toctree::
+   :maxdepth: 1
    :caption: AMD Mainstream:
 
    AMD/Slot A
@@ -177,6 +212,7 @@ Overclocking-Wiki documentation
    :maxdepth: 1
    :caption: ASUS AMD Motherboards:
 
+   ASUS/CBR
    ASUS/Crosshair
    ASUS/CIIF
    ASUS/CIIIF

@@ -177,6 +177,7 @@ Overclocking-Wiki documentation
    :maxdepth: 1
    :caption: ASUS AMD Motherboards:
 
+   ASUS/CBR
    ASUS/Crosshair
    ASUS/CIIF
    ASUS/CIIIF
