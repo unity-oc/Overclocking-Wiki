@@ -216,7 +216,7 @@ Overclocking-Wiki documentation
    ASRock/Z97ocf
    ASRock/Z170mocf
    ASRock/Z590ocf
-   ASRock/x299ocf
+   ASRock/X299ocf
 
 .. toctree::
    :maxdepth: 1
