@@ -3,6 +3,41 @@ Overclocking-Wiki documentation
 ===============================
 
 .. toctree::
+   :maxdepth: 2
+   :caption: 2D Benchmarks:
+
+   Benchmarks/2D/1M
+   Benchmarks/2D/32M
+   Benchmarks/2D/pifast
+   Benchmarks/2D/wPrime
+   Benchmarks/2D/Cinebench
+   Benchmarks/2D/GB3
+   Benchmarks/2D/GB4
+   Benchmarks/2D/GB5
+   Benchmarks/2D/GB6
+   Benchmarks/2D/GPUpi
+   Benchmarks/2D/x265
+   Benchmarks/2D/XTU2.0
+   Benchmarks/2D/Y-Cruncher
+   Benchmarks/2D/7zpi
+   Benchmarks/2D/valid
+
+.. toctree::
+   :maxdepth: 1
+   :caption: 2D Benchmarks:
+
+   Benchmarks/3D/3DM01
+   Benchmarks/3D/3DM03
+   Benchmarks/3D/3DM05
+   Benchmarks/3D/3DM06
+   Benchmarks/3D/Aquamark
+   Benchmarks/3D/FS   
+   Benchmarks/3D/TS
+   Benchmarks/3D/Heaven
+   Benchmarks/3D/Superposition
+   Benchmarks/3D/Vantage
+
+.. toctree::
    :maxdepth: 1
    :caption: AMD Mainstream:
 
