@@ -211,6 +211,20 @@ Overclocking-Wiki documentation
 
 .. toctree::
    :maxdepth: 1
+   :caption: DFI AMD Motherboards:
+
+   DFI/LP754
+   DFI/LPnF3ultra-D
+   DFI/LPnF4ultra-D
+   DFI/LPnF4sli-D
+   DFI/LPnF4sli-DR
+   DFI/LPnF4expert
+   DFI/LPnF4venus
+   DFI/LP790fxM2RS
+   DFI/LP790fxM2RSH
+
+.. toctree::
+   :maxdepth: 1
    :caption: Gigabyte AMD Motherboards:
 
    Gigabyte/A85xUP4
