@@ -6,36 +6,37 @@ Overclocking-Wiki documentation
    :maxdepth: 1
    :caption: 2D Benchmarks:
 
-   Benchmarks/1M
-   Benchmarks/32M
-   Benchmarks/pifast
-   Benchmarks/wPrime
-   Benchmarks/Cinebench
-   Benchmarks/GB3
-   Benchmarks/GB4
-   Benchmarks/GB5
-   Benchmarks/GB6
-   Benchmarks/GPUpi
-   Benchmarks/x265
-   Benchmarks/XTU2.0
-   Benchmarks/Y-Cruncher
-   Benchmarks/7zpi
-   Benchmarks/valid
+   Benchmarks/2D/1M
+   Benchmarks/2D/32M
+   Benchmarks/2D/pifast
+   Benchmarks/2D/wPrime
+   Benchmarks/2D/Cinebench
+   Benchmarks/2D/GB3
+   Benchmarks/2D/GB4
+   Benchmarks/2D/GB5
+   Benchmarks/2D/GB6
+   Benchmarks/2D/GPUpi
+   Benchmarks/2D/x265
+   Benchmarks/2D/XTU2.0
+   Benchmarks/2D/Y-Cruncher
+   Benchmarks/2D/7zpi
+   Benchmarks/2D/valid
 
 .. toctree::
    :maxdepth: 1
    :caption: 2D Benchmarks:
 
-   Benchmarks/3DM01
-   Benchmarks/3DM03
-   Benchmarks/3DM05
-   Benchmarks/3DM06
-   Benchmarks/Aquamark
-   Benchmarks/FS   
-   Benchmarks/TS
-   Benchmarks/Heaven
-   Benchmarks/Superposition
-   Benchmarks/Vantage
+   Benchmarks/3D/3DM01
+   Benchmarks/3D/3DM03
+   Benchmarks/3D/3DM05
+   Benchmarks/3D/3DM06
+   Benchmarks/3D/Aquamark
+   Benchmarks/3D/FS   
+   Benchmarks/3D/TS
+   Benchmarks/3D/Heaven
+   Benchmarks/3D/Superposition
+   Benchmarks/3D/Vantage
+   Benchmarks/3D/GPUpi
 
 .. toctree::
    :maxdepth: 1
