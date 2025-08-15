@@ -1,5 +1,0 @@
-================
-LGA1366
-================
-
-LGA1366 was the first dedicated Intel HEDT socket, it was succeeded by :doc:`LGA2011` and uses the :doc:`/Memory/DDR3` memory standard.
